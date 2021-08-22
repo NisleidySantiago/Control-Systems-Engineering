@@ -1,3 +1,5 @@
+![canonical forms of state space 002](https://user-images.githubusercontent.com/36342673/130370661-3a1f6282-12f8-4ee9-8e7b-e545bbc587dd.jpg)
+
 ![mason's formula 001](https://user-images.githubusercontent.com/36342673/130338181-bfb84177-a48b-4086-a7b7-94f68ec4b9c7.jpg)
 ![mason's formula 002](https://user-images.githubusercontent.com/36342673/130338202-9a46f2a7-7bda-4f6d-b65e-9bc2becc780b.jpg)
 ![mason's formula 003](https://user-images.githubusercontent.com/36342673/130338208-ead76054-765f-4fc9-8ede-a072ae73ee40.jpg)
