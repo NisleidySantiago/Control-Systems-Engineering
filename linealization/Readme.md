@@ -1,3 +1,4 @@
+# Part I
 ![linealization 001](https://user-images.githubusercontent.com/36342673/128781973-3930ccca-9fa6-4417-80ce-ad6f7688d4fc.jpg)
 ![linealization 002](https://user-images.githubusercontent.com/36342673/128781999-f1f16abf-f1bf-4761-be0c-61a20ce9081e.jpg)
 ![linealization 003](https://user-images.githubusercontent.com/36342673/128782013-96e8cf77-33cd-4f0c-8860-1a42d2fe3ad8.jpg)
@@ -7,3 +8,8 @@
 ![ejercicios ica 002](https://user-images.githubusercontent.com/36342673/128779250-5145f5f8-978f-4869-b890-37e6ac0cae77.jpg)
 ![ejercicios ica 003](https://user-images.githubusercontent.com/36342673/128779327-48abe42a-3517-4a44-8e02-3b0e217366e9.jpg)
 ![ejercicios ica 004](https://user-images.githubusercontent.com/36342673/128779427-868db035-9c64-4826-891f-b6105db7f82a.jpg)
+
+# Part II
+![Modelado de sistemas fisicos 071](https://user-images.githubusercontent.com/36342673/130370417-6f1ea94e-7acf-4cc4-80c6-1c733a56f09d.jpg)
+![Modelado de sistemas fisicos 072](https://user-images.githubusercontent.com/36342673/130370421-1559ca1f-c406-4854-b6c8-3cc6084d7202.jpg)
+
