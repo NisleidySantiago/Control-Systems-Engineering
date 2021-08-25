@@ -1,3 +1,4 @@
+# State solution, state transition matrix by base change method and laplace method, eigenvalues, eigenvectors, convolution integral
 ![state solution 001](https://user-images.githubusercontent.com/36342673/130374892-92c2dbd3-0cba-47dd-9749-12ae9275baa3.jpg)
 ![state solution 003](https://user-images.githubusercontent.com/36342673/130374928-5133d10a-60d4-492c-b06d-e22f56d71dd0.jpg)
 ![state solution 004](https://user-images.githubusercontent.com/36342673/130374938-af1f9727-ccc8-45e4-8ef3-5e8a748e7786.jpg)
@@ -10,13 +11,4 @@
 ![state solution 011](https://user-images.githubusercontent.com/36342673/130375048-fae0aaed-5b48-447a-a7f2-2cc208733916.jpg)
 ![state solution 012](https://user-images.githubusercontent.com/36342673/130375058-3305c449-ce98-415b-add4-72ac630fef81.jpg)
 ![state solution 013](https://user-images.githubusercontent.com/36342673/130375069-9d0a2448-c8fd-453e-a305-5076cbed3975.jpg)
-![state solution 014](https://user-images.githubusercontent.com/36342673/130375078-8cb973e7-a17b-42ff-867d-299c8f8c4064.jpg)
-![state solution 015](https://user-images.githubusercontent.com/36342673/130375088-46be646c-0c91-4fbe-804a-c234ce01b120.jpg)
-![state solution 016](https://user-images.githubusercontent.com/36342673/130375150-29c8b65c-0b51-4796-a5cf-f8bcdd7b94e8.jpg)
-![state solution 017](https://user-images.githubusercontent.com/36342673/130375191-308e8e3a-ab53-4f2e-8fa1-e07086afffc3.jpg)
-![state solution 018](https://user-images.githubusercontent.com/36342673/130375226-a89d8775-c174-44b6-9e37-0a545eb37c0d.jpg)
-![state solution 019](https://user-images.githubusercontent.com/36342673/130375231-ccc38eb5-1e84-4d2a-8123-a16375cc264e.jpg)
-![state solution 020](https://user-images.githubusercontent.com/36342673/130375241-8a0f1f0b-ec9c-484f-a2ef-c2604e1fd885.jpg)
-![state solution 021](https://user-images.githubusercontent.com/36342673/130375249-183bbe46-177f-4a56-bf05-ea958be66cda.jpg)
-![state solution 022](https://user-images.githubusercontent.com/36342673/130374852-6064311f-e291-4858-b2d4-23f63e52928b.jpg)
 
