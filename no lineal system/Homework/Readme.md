@@ -1,3 +1,4 @@
+# includes equilibrium point, Jacobian and eigenvalues, Graphs in Matlab with p-plane
 ![1](https://user-images.githubusercontent.com/36342673/128644895-9193136a-7344-4c6b-8335-7904090cac29.png)
 ![2](https://user-images.githubusercontent.com/36342673/128644899-5a238b66-4cdc-4a00-b37c-851c20f4a70f.png)
 ![3](https://user-images.githubusercontent.com/36342673/128644902-e5a2f7fa-850f-495e-8ddb-a3c64fc222ad.png)
